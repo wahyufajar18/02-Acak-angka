@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569900324 source:g:\semester 5\tes2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
